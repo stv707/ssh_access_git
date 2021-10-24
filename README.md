@@ -69,9 +69,8 @@
 
   
 - In the user settings sidebar, click SSH and GPG keys.
-
   <br>
-![picture 2](images/55ca7e0a527dad48b48ee888cd42584919971d5b53b7bba992ed1e042b5064ba.png)  
+  ![picture 2](images/55ca7e0a527dad48b48ee888cd42584919971d5b53b7bba992ed1e042b5064ba.png)  
 
 - Click New SSH key or Add SSH key. 
   <br> 
