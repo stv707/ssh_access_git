@@ -61,7 +61,7 @@
    # displayed in the terminal to your clipboard
 
   
-- In the upper-right corner of any page, click your profile photo, then click Settings.
+- In the upper-right corner of github page, click your profile photo, then click Settings.
   
 
   ![picture 1](images/f0e69f6e282941465016cdb6ba3869b14cf3001d3e62b620610de08615224919.png)  
