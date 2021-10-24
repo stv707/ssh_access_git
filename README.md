@@ -134,4 +134,8 @@
 
 # END
 
+ >> Note: **ssh-agent pid will be killed once you exit the terminal, you need to automate ssh agent via .profile, so everytime you login to terminal, you need to add your private key to ssh-agent** 
+
+ >> Note: Refer: https://unix.stackexchange.com/questions/90853/how-can-i-run-ssh-add-automatically-without-a-password-prompt
+
 </pre>
